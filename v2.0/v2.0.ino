@@ -1,15 +1,5 @@
 /*
-  Optical SP02 Detection (SPK Algorithm) using the MAX30105 Breakout
-  By: Nathan Seidle @ SparkFun Electronics
-  Date: October 19th, 2016
-  https://github.com/sparkfun/MAX30105_Breakout
-
-  This demo shows heart rate and SPO2 levels.
-
-  It is best to attach the sensor to your finger using a rubber band or other tightening 
-  device. Humans are generally bad at applying constant pressure to a thing. When you 
-  press your finger against the sensor it varies enough to cause the blood in your 
-  finger to flow differently which causes the sensor readings to go wonky.
+  This is the SpO2 code with we are working...its not the same as the library example, has a little modifications.
 
   This example is based on MAXREFDES117 and RD117_LILYPAD.ino from Maxim. Their example
   was modified to work with the SparkFun MAX30105 library and to compile under Arduino 1.6.11
